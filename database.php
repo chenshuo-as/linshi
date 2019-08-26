@@ -13,7 +13,7 @@ return [
 	// 数据库类型
 	'type' => 'mysql',
 	// 服务器地址
-	'hostname' => '127.0.0.1',
+	'hostname' => '216.189.56.87',
 	// 数据库名
 	'database' => 'avi',
 	// 用户名
@@ -21,7 +21,7 @@ return [
 	// 密码
 	'password' => 'b1987910',
 	// 端口
-	'hostport' => '80',
+	'hostport' => '',
 	// 连接dsn
 	'dsn' => '',
 	// 数据库连接参数
