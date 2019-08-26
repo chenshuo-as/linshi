@@ -17,11 +17,11 @@ return [
 	// 数据库名
 	'database' => 'avi',
 	// 用户名
-	'username' => 'root',
+	'username' => 'avi',
 	// 密码
-	'password' => '',
+	'password' => 'b1987910',
 	// 端口
-	'hostport' => '',
+	'hostport' => '80',
 	// 连接dsn
 	'dsn' => '',
 	// 数据库连接参数
